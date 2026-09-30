@@ -305,11 +305,3 @@ This project demonstrates:
 * Path cost calculation
 * Handling multiple queries
 * Python implementation of graph algorithms
-
----
-
-## 👨‍💻 Author
-
-**Ayush**
-
-This project was created as a learning implementation of the **Shortest Path Problem using Dijkstra's Algorithm**.
